@@ -6,8 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhargav0425&label=Profile%20views&color=0e75b6&style=flat" alt="bhargav0425" /> </p>
 
-- 🔭 I’m currently working on Software As a service product [FLITS](http://getflits.com/)
-
+- 🔭 I’m currently working as a Full Stack Developer Intern at Ericsson.
 - You Can Reach out to me on **bhargavapatel2501@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
